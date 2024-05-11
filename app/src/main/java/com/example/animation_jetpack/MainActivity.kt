@@ -15,7 +15,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             Animation_JetpackTheme {
                 //BasicAnimaton()
-                AnimatedContent()
+                //AnimatedContent()
+                LottieAnimationImpl()
             }
         }
     }
