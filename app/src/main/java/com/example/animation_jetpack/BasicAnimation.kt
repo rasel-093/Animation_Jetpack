@@ -153,11 +153,12 @@ fun BasicAnimaton(modifier: Modifier = Modifier) {
                 repeatMode = RepeatMode.Reverse
             ), label = ""
         )
-        Box(modifier = Modifier
-            .size(200.dp)
-            .padding(10.dp)
-            .clip(RoundedCornerShape(borderRadius))
-            .background(color)
+        Box(
+            modifier = Modifier
+                .size(200.dp)
+                .padding(10.dp)
+                .clip(RoundedCornerShape(borderRadius))
+                .background(color)
         )
 
 
