@@ -17,7 +17,8 @@ class MainActivity : ComponentActivity() {
                 //BasicAnimaton()
                 //AnimatedContent()
                 //LottieAnimationImpl()
-                ClickableMessageScreen()
+                //ClickableMessageScreen()
+                ExpandableTextScreen()
             }
         }
     }
