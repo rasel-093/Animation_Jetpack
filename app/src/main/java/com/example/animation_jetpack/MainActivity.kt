@@ -18,7 +18,8 @@ class MainActivity : ComponentActivity() {
                 //AnimatedContent()
                 //LottieAnimationImpl()
                 //ClickableMessageScreen()
-                ExpandableTextScreen()
+                //ExpandableTextScreen()
+                SurveyScreen()
             }
         }
     }
