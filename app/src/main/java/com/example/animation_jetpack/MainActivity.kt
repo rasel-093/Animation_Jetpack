@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
                 //LottieAnimationImpl()
                 //ClickableMessageScreen()
                 //ExpandableTextScreen()
-                SurveyScreen()
+                //SurveyScreen()
+                ImageRainbowBorderAnimation()
             }
         }
     }
