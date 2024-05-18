@@ -1,3 +1,42 @@
+# Jetpack Compose Animation
+
+## A Jetpack Compose Animation project written in Kotlin showing  all types of basic animation
+
+In this project some basic animation is implemented using Jetpack Compose. The animations are 
+implemented using real life project example. This sample animation can be used in any project later.
+The animation screens are : 
+
+* Basic Animation 
+* Animated Content
+* Lottie Animation
+* Clickable Message
+* Expandable Text
+* Animated Survey Progressbar
+* Animated Image Circle Border
+
+The following Composables and Functions are used here : 
+* Infinite Transition
+* AnimateFloat
+* Tween
+* AnimateColor
+* AnimatedContent
+* AnimatedVisibility
+* Modifier.animateContentSize()
+* drawBehind{rotate()}
+* LottieAnimation
+* animateFloatAsState
+
+## How to build this project
+1. Import the repository to Android Studio
+2. Open MainActivity.kt
+3. There are several Comoposables in the MainActivity.
+4. Uncomment one of the Composables.
+5. Don't uncomment all the composable screens at a time.
+6. Finally build the project.
+
+## Find a bug?
+If you find an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If your would like to submit a PR with a fix reference the issue you created!
+
 ## Basic Animation
 ![Basic_Animation](https://github.com/rasel-093/Animation_Jetpack/assets/117844325/6bd07de6-3824-472e-b842-064defebc137)
 
